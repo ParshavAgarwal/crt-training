@@ -1,3 +1,4 @@
+// Question: Detect whether the capitalization of a given word is correct.
 /*Return True if:
 
 All letters in this word are capitals, like "USA".

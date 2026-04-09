@@ -1,3 +1,4 @@
+// Question: Check if all 'a's appear before all 'b's in a given string.
 #include <bits/stdc++.h>
 using namespace std;
 

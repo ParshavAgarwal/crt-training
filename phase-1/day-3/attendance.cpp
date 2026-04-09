@@ -1,3 +1,5 @@
+// Question: Check if a student is eligible for an attendance award (fewer than 2 absents and never 3 consecutive lates).
+
 #include <bits/stdc++.h>
 using namespace std;
 
